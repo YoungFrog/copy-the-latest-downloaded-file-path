@@ -1,1 +1,1 @@
-# copy-last-download-file-path
+# copy-the-latest-downloaded-file-path

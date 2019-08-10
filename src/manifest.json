@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "copy last download file path",
+  "name": "copy-the-latest-downloaded-file-path",
   "version": "1",
-  "description": "copy last download file path",
+  "description": "copy the latest downloaded file path",
   "author": "serj-kzv",
-  "homepage_url": "https://github.com/serj-kzv/copy-last-download-file-path",
+  "homepage_url": "https://github.com/serj-kzv/copy-the-latest-downloaded-file-path",
   "background": {
     "scripts": [
       "background.js"
